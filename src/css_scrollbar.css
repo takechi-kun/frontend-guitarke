@@ -1,0 +1,20 @@
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+    cursor: pointer;
+    border-radius: 100vh;
+    /*background-color: rgba(229, 231, 235, var(--bg-opacity));*/
+
+}
+::-webkit-scrollbar-track {
+    background-color: #C1C0C0;
+    cursor: pointer;
+    border-radius: 100vh;
+    /*background: red;*/
+}
+::-webkit-scrollbar-thumb {
+    cursor: pointer;
+    background-color: #9E918E;
+    border-radius: 100vh;
+    /*outline: 1px solid slategrey;*/
+}

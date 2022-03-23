@@ -1,0 +1,15 @@
+
+.ChordSheetOutPut {
+    flex: 1 0 auto;
+    white-space: pre;
+
+}
+.ChordSheetOutPut table {
+    border-spacing: 0;
+    color: inherit;
+    
+}
+
+.ChordSheetOutPut td {
+    padding: 3px 0
+}
